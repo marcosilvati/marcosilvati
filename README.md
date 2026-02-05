@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou um profissional de Segurança da Informação
 
-Com mais de **10 anos de experiência em Tecnologia da Informação**, construí uma trajetória sólida e ascendente passando por **Infraestrutura de TI**, **automação** e, atualmente, com **foco total em Segurança da Informação**.
+Com mais de **10 anos de experiência em Tecnologia da Informação**, construí  uma trajetória sólida e ascendente passando por **Infraestrutura de TI**, **automação** e, atualmente, com **foco total em Segurança da Informação**.
 
 Atuo no fortalecimento de ambientes corporativos por meio de **monitoramento, resposta a incidentes e automações de segurança**, sempre alinhado às boas práticas de **DevSecOps** e ao **ciclo seguro de desenvolvimento (SDLC)**.
 
