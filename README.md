@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Olá, eu sou um profissional de Segurança da Informação
 
-<!--
-**marcosilvati/marcosilvati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Com mais de **10 anos de experiência em Tecnologia da Informação**, construí uma trajetória sólida e ascendente passando por **Infraestrutura de TI**, **automação** e, atualmente, com **foco total em Segurança da Informação**.
 
-Here are some ideas to get you started:
+Atuo no fortalecimento de ambientes corporativos por meio de **monitoramento, resposta a incidentes e automações de segurança**, sempre alinhado às boas práticas de **DevSecOps** e ao **ciclo seguro de desenvolvimento (SDLC)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛡️ Áreas de Atuação
+
+- 🔐 **Segurança da Informação**
+- 🚨 **CSIRT & SOC**
+- 📊 **Monitoramento e Resposta a Incidentes**
+- 🧠 **Análise de eventos, logs e indicadores de ataque**
+- 🧪 **Tabletop Exercises (TTX) e simulações de incidentes**
+- 📘 **Criação de Playbooks de Incidentes**
+- ⚙️ **DevSecOps & Secure SDLC**
+
+---
+
+## 🤖 Automações & Scripting
+
+Utilizo automações como pilar para **ganho de eficiência operacional, redução de erros humanos e resposta rápida a incidentes**, aplicadas principalmente em cenários de segurança.
+
+- 🐧 **Bash / Shell Script**
+- 🐍 **Python**
+- 🪟 **PowerShell**
+
+Aplicações práticas:
+- Automação de respostas a incidentes
+- Coleta e correlação de logs
+- Hardening e validações de segurança
+- Integrações com ferramentas de monitoramento e SIEM
+- Scripts para apoio a SOC e CSIRT
+
+---
+
+## 🚀 Objetivo deste GitHub
+
+Este repositório reúne:
+- 🔧 Scripts e automações voltadas à **segurança**
+- 📄 **Playbooks de resposta a incidentes**
+- 🧠 Materiais de **TTX (Tabletop Exercises)**
+- 🛠️ Ferramentas de apoio a **SOC / CSIRT**
+- 🔄 Exemplos práticos de **DevSecOps em ação**
+
+Tudo com foco em **segurança aplicada ao mundo real**, compartilhando conhecimento e boas práticas.
+
+---
+
+📫 **Vamos trocar ideias?**  
+Sinta-se à vontade para explorar, contribuir ou entrar em contato.
