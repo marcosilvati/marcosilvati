@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou um profissional de Segurança da Informação
+# 👋 Olá
 
 Com mais de **10 anos de experiência em Tecnologia da Informação**, construí  uma trajetória sólida e ascendente passando por **Infraestrutura de TI**, **automação** e, atualmente, com **foco total em Segurança da Informação**.
 ---
